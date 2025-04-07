@@ -4,6 +4,7 @@ Authors: Demetrio Burton and Althea Downer
 Date Created: April 6, 2025
 Course: ITT103 Programming Technique
 GitHub Public URL to Code:https://github.com/Althea2010/POS-System-/blob/main/Burton.Downer_POS_Program_ITT103_SP2025.py
+
 https://github.com/DemetrioRB/crispy-adventure/blob/main/Burton.Downer_POS_Program_ITT103_SP2025.py
 
 
